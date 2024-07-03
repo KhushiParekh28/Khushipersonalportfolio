@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Khushipersonalportfolio/static/css/main.25949b0e.css",
+    "main.js": "/Khushipersonalportfolio/static/js/main.41af5a44.js",
+    "static/js/453.981f7834.chunk.js": "/Khushipersonalportfolio/static/js/453.981f7834.chunk.js",
+    "static/media/WORK1.png": "/Khushipersonalportfolio/static/media/WORK1.602232a3f4d32c1ec255.png",
+    "static/media/JavaScript-Symbol.png": "/Khushipersonalportfolio/static/media/JavaScript-Symbol.b35b06ee43eccfec3018.png",
+    "static/media/html.png": "/Khushipersonalportfolio/static/media/html.4eef139376834851fba1.png",
+    "static/media/WORK2.png": "/Khushipersonalportfolio/static/media/WORK2.b4f2e720654e537f2cd6.png",
+    "static/media/KhushiParekhinitals.png": "/Khushipersonalportfolio/static/media/KhushiParekhinitals.27448e11f9d51a97033a.png",
+    "static/media/CSS-Logo.png": "/Khushipersonalportfolio/static/media/CSS-Logo.0ca65abfc0c427bc3506.png",
+    "index.html": "/Khushipersonalportfolio/index.html",
+    "main.25949b0e.css.map": "/Khushipersonalportfolio/static/css/main.25949b0e.css.map",
+    "main.41af5a44.js.map": "/Khushipersonalportfolio/static/js/main.41af5a44.js.map",
+    "453.981f7834.chunk.js.map": "/Khushipersonalportfolio/static/js/453.981f7834.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25949b0e.css",
+    "static/js/main.41af5a44.js"
+  ]
+}
